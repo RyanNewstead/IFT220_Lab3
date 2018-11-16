@@ -2,9 +2,9 @@
 Build a Domain Controller
 
 1) Prep
-  i) Patch/update your VM
-  ii) Check for more patches/updates
-  iii) When it's fully updated, take a VM snapshot so you can undo if something goes wrong
+    i) Patch/update your VM
+    ii) Check for more patches/updates
+    iii) When it's fully updated, take a VM snapshot so you can undo if something goes wrong
 
 2) Run 1st Script
   i) Read the domain.ps1 script form Lab2 so you know what it's going to do
