@@ -19,3 +19,4 @@ Build a Domain Controller
     1. If you get errors, research them on your own before askig for help, restore to your snapshot as needed
 
 1. Run 3rd Script
+    1. Check any errors
