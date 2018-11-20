@@ -1,5 +1,5 @@
 # IFT220_Lab3
-##Build a Domain Controller
+## Build a Domain Controller
 
 1. Deliverable
     1. The deliverable for the lab is the completed "DC Build Worksheet" from this repo
