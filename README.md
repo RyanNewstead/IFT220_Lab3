@@ -24,3 +24,6 @@
 1. Run 3rd Script
     1. Run the organizationalunits.ps1 script
     1. If you get errors, research them on your own before askig for help, restore to your snapshot as needed
+
+1. Configuring Time Synchronization for all Computers in a Windows domain
+    1. https://www.altaro.com/hyper-v/configuring-time-synchronization-for-all-computers-in-windows-domain/
