@@ -11,6 +11,10 @@
     1. Read the postdomain.ps1 script from Lab2 so you know what it's going to do
     1. Read the organizationalunits.ps1 script form Lab2 so you know what it's going to do
         1. **You should have edited the script to update the domainComponents (DC=)**
+    1. Update your fork of Lab2
+        1. git fetch upstream
+        1. git checkout master
+        1. git merge upstream/master
 
 1. Run 1st Script
     1. Run the doamin.ps1 script 
