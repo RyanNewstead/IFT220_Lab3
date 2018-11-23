@@ -17,7 +17,6 @@
             1. `git fetch upstream`
             1. `git checkout master`
             1. `git merge upstream/master`
-            1. `git commit -m "merge upstream"`
             1. `git push`
 
 1. Run 1st Script
