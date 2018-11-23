@@ -12,7 +12,7 @@
     1. Read the organizationalunits.ps1 script form Lab2 so you know what it's going to do
         1. **You should have edited the script to update the domainComponents (DC=)**
     1. Update your fork of Lab2
-        1. Open PowerShell, CD into your lab 2 folder, and run the commands:
+        1. Open PowerShell ISE, CD into your lab 2 folder, and run the commands:
             1. `git remote add upstream https://github.com/ericcase/IFT220_Lab2.git`
             1. `git fetch upstream`
             1. `git checkout master`
