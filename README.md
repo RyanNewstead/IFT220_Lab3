@@ -20,17 +20,17 @@
             1. `git push`
 
 1. Run 1st Script
-    1. Run the doamin.ps1 script 
-    1. **Read the prompts carfully**
-    1. If you get errors, research them on your own before askig for help, restore to your snapshot as needed
+    1. Run the domain.ps1 script 
+    1. **Read the prompts carefully**
+    1. If you get errors, research them on your own before asking for help, restore to your snapshot as needed
 
 1. Run 2nd Script
     1. Run the postdomain.ps1 script
-    1. Check any errors, research them on your own before askig for help, restore to your snapshot as needed
+    1. Check any errors, research them on your own before asking for help, restore to your snapshot as needed
 
 1. Run 3rd Script
     1. Run the organizationalunits.ps1 script
-    1. If you get errors, research them on your own before askig for help, restore to your snapshot as needed
+    1. If you get errors, research them on your own before asking for help, restore to your snapshot as needed
 
 1. (Optional) Configuring Time Synchronization for all Computers in a Windows domain
     1. https://www.altaro.com/hyper-v/configuring-time-synchronization-for-all-computers-in-windows-domain/
